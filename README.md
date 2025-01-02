@@ -18,6 +18,9 @@ While Atliq has experienced substantial growth, they faced significant challenge
 - DAX Studio (for optimizing the report)
 - Project Charter File
 
+  ## DataModel:
+  ![Data Model](https://github.com/savya-27/PowerBI-Atliq-Hardware-Business-Insights-360/blob/main/Atliq Hardware Datamodel.png)
+
 ## Learnt Power BI Techniques:
 - Creating calculated columns
 - Creating measures using the DAX language
