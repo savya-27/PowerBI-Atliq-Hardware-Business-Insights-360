@@ -19,7 +19,7 @@ While Atliq has experienced substantial growth, they faced significant challenge
 - Project Charter File
 
   ## DataModel:
-  ![Data Model](https://github.com/savya-27/PowerBI-Atliq-Hardware-Business-Insights-360/blob/main/Atliq Hardware Datamodel.png)
+  ![Data Model](https://github.com/savya-27/PowerBI-Atliq-Hardware-Business-Insights-360/blob/main/Atliq%20Hardware%20Datamodel.png)
 
 ## Learnt Power BI Techniques:
 - Creating calculated columns
