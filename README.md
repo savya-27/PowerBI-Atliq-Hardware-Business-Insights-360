@@ -1,7 +1,7 @@
 # AtliQ Hardware Business Insights 360 – PowerBI
 
 As part of the CodeBasics Data Analytics Bootcamp, I have worked on this project.  
-Link to the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBhMThkYzMtMDA2Ny00ZWYyLTlkOGMtMzYwYTI4YmI5YTY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBhMThkYzMtMDA2Ny00ZWYyLTlkOGMtMzYwYTI4YmI5YTY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=2ce8dd285472c82afd14)
 Link to the [Video Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7274802774335266817/)
 
 ## About the Company:
