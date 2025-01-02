@@ -8,7 +8,7 @@ Link to the [Video Presentation](https://www.linkedin.com/feed/update/urn:li:act
 Atliq Hardware is a rapidly growing consumer electronics company that manufactures and sells products like PCs, mice, printers, and other hardware. Their customers are retail and online stores such as Best Buy, Croma, Staples, Amazon, and Flipkart. These stores, in turn, sell the products to end consumers.  
 While Atliq has experienced substantial growth, they faced significant challenges in Latin America. A poorly informed decision to open their stores there, based solely on survey data, led to huge losses. This highlighted the need for a robust data analytics system to drive decision-making.
 
-![About Atliq](About_Atliq.png)
+![About Atliq](https://github.com/savya-27/PowerBI-Atliq-Hardware-Business-Insights-360/blob/main/About%20Atliq.png)
 
 ## Learnt Tech Stacks:
 - SQL
